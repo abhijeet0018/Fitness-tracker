@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 node_modules
 dist
 .DS_Store
 *.log
+=======
+node_modules
+dist
+.DS_Store
+*.log
+>>>>>>> 4a323a3ef6bef1025f317fae38f7aeb712f1ddf5
